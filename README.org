@@ -1,2 +1,30 @@
 * Max Climb Challenge
-Visit [[max-climb-challenge.github.io]].
+Visit https://max-climb-challenge.github.io.
+
+#+begin_comment
+** Test
+Visit http://127.0.0.1:4000/.
+
+#+begin_src sh :eval no
+bundle exec jekyll serve --watch --livereload
+#+end_src
+#+end_comment
+#+begin_comment
+** Favicon
+- https://ptc-it.de/add-favicon-to-mm-jekyll-site/
+- https://realfavicongenerator.net/
+
+Added into gh-pages/_includes/head.html, which was copied from /var/lib/gems/3.0.0/gems/minima-2.5.1/_includes, the current theme gem.
+
+** Theme
+- github.com/StartBootstrap/startbootstrap-clean-blog-jekyll
+
+** Page Update
+Visit https://github.com/max-climb-challenge/max-climb-challenge.github.io/actions/runs/4426874301.
+Check deploment: https://github.com/max-climb-challenge/max-climb-challenge.github.io/deployments.
+
+** Invite
+
+Hallo Läufer:innen, hab kruzfristig eine :run:-Challenge erstellt, zu finden unter https://max-climb-challenge.github.io. Schaut doch mal rein :-)
+#+end_comment
+
