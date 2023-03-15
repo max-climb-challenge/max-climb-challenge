@@ -23,6 +23,10 @@ Added into gh-pages/_includes/head.html, which was copied from /var/lib/gems/3.0
 Visit https://github.com/max-climb-challenge/max-climb-challenge.github.io/actions/runs/4426874301.
 Check deploment: https://github.com/max-climb-challenge/max-climb-challenge.github.io/deployments.
 
+** Disqus
+- jreel.github.io/setting-up-disqus-comments-on-jekyll/
+- https://max-climb-challenge.disqus.com/admin/moderate/pending
+
 ** Invite
 
 Hallo Läufer:innen, hab kruzfristig eine :run:-Challenge erstellt, zu finden unter https://max-climb-challenge.github.io. Schaut doch mal rein :-)
