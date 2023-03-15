@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 # Default theme
-gem "minima", "~> 2.5"
+gem "jekyll-theme-clean-blog"
 # gem "jekyll", "~> 4.3.2"
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
